@@ -1,0 +1,2 @@
+Hi, I’m @hoblaa
+I’m currently learning Scala, C
